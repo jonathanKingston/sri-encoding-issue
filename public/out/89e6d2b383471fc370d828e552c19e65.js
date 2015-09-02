@@ -1,0 +1,1 @@
+var me = "fa"; me = {fa: "fa"};

@@ -1,0 +1,1 @@
+var me = "fr"; me = {fr: "fr"};

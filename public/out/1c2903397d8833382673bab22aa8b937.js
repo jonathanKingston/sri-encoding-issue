@@ -1,0 +1,1 @@
+var me = "CN"; me = {CN: "CN"};

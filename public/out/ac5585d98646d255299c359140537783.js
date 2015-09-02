@@ -1,0 +1,1 @@
+var me = "si"; me = {si: "si"};

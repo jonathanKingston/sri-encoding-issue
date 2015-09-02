@@ -1,0 +1,1 @@
+var me = "sq"; me = {sq: "sq"};

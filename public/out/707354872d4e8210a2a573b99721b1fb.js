@@ -1,0 +1,1 @@
+var me = "CM"; me = {CM: "CM"};

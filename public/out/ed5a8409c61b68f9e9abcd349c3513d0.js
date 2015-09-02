@@ -1,0 +1,1 @@
+var me = "qi"; me = {qi: "qi"};

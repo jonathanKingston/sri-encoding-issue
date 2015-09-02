@@ -1,0 +1,1 @@
+var me = "Ni"; me = {Ni: "Ni"};

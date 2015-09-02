@@ -1,0 +1,1 @@
+var me = "mk"; me = {mk: "mk"};

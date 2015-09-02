@@ -1,0 +1,1 @@
+var me = "lP"; me = {lP: "lP"};

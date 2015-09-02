@@ -1,0 +1,1 @@
+var me = "oq"; me = {oq: "oq"};

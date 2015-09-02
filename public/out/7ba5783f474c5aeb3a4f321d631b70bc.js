@@ -1,0 +1,1 @@
+var me = "Ai"; me = {Ai: "Ai"};

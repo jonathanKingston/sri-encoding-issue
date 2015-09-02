@@ -1,0 +1,1 @@
+var me = "lb"; me = {lb: "lb"};

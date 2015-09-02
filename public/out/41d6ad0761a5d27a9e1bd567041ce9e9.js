@@ -1,0 +1,1 @@
+var me = "sk"; me = {sk: "sk"};

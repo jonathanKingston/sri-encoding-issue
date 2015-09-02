@@ -1,0 +1,1 @@
+var me = "pp"; me = {pp: "pp"};

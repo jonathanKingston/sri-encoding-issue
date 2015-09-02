@@ -1,0 +1,1 @@
+var me = "ga"; me = {ga: "ga"};

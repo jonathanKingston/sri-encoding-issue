@@ -1,0 +1,1 @@
+var me = "JS"; me = {JS: "JS"};

@@ -1,0 +1,1 @@
+var me = "ft"; me = {ft: "ft"};

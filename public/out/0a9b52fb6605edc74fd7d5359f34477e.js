@@ -1,0 +1,1 @@
+var me = "WW"; me = {WW: "WW"};

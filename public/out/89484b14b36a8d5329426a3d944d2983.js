@@ -1,0 +1,1 @@
+var me = "ru"; me = {ru: "ru"};

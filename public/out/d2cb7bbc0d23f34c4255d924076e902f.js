@@ -1,0 +1,1 @@
+var me = "IE"; me = {IE: "IE"};

@@ -1,0 +1,1 @@
+var me = "vo"; me = {vo: "vo"};

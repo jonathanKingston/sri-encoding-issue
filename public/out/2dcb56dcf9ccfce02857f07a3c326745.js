@@ -1,0 +1,1 @@
+var me = "oz"; me = {oz: "oz"};

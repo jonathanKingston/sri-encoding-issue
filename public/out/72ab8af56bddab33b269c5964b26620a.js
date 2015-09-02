@@ -1,0 +1,1 @@
+var me = "pi"; me = {pi: "pi"};

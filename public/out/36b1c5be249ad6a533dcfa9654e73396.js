@@ -1,0 +1,1 @@
+var me = "nj"; me = {nj: "nj"};

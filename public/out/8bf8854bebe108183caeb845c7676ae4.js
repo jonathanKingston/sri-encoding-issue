@@ -1,0 +1,1 @@
+var me = "of"; me = {of: "of"};

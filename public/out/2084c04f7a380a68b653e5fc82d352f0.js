@@ -1,0 +1,1 @@
+var me = "De"; me = {De: "De"};

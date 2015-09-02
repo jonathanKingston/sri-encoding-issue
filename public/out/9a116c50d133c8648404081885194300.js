@@ -1,0 +1,1 @@
+var me = "ND"; me = {ND: "ND"};

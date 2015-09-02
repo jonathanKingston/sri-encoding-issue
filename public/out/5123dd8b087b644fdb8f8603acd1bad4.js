@@ -1,0 +1,1 @@
+var me = "gn"; me = {gn: "gn"};

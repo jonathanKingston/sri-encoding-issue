@@ -1,0 +1,1 @@
+var me = "sd"; me = {sd: "sd"};

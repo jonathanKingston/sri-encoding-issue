@@ -1,0 +1,1 @@
+var me = "yy"; me = {yy: "yy"};

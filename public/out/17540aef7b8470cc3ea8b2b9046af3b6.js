@@ -1,0 +1,1 @@
+var me = "ak"; me = {ak: "ak"};

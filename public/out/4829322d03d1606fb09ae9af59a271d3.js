@@ -1,0 +1,1 @@
+var me = "eu"; me = {eu: "eu"};

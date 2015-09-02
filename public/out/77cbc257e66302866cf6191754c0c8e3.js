@@ -1,0 +1,1 @@
+var me = "sh"; me = {sh: "sh"};

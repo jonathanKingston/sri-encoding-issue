@@ -1,0 +1,1 @@
+var me = "gh"; me = {gh: "gh"};

@@ -1,0 +1,1 @@
+var me = "YK"; me = {YK: "YK"};

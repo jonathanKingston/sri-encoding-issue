@@ -1,0 +1,1 @@
+var me = "vg"; me = {vg: "vg"};

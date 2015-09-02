@@ -1,0 +1,1 @@
+var me = "eq"; me = {eq: "eq"};

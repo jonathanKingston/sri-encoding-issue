@@ -1,0 +1,1 @@
+var me = "ig"; me = {ig: "ig"};

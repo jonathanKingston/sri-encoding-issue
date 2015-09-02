@@ -10,6 +10,17 @@ When using OpenSSL or sri-toolbox there appears to be no issue parsing the code 
 - go to: localhost:3000
 - go to: localhost:3000/part (This is a cut down script with the offending chars)
 
+## Other offending files
+
+parser.js in this directory has created these files (Not always valid JS however the integrity checks are what we care about) this is produced by spliting up moment.js
+
+- Single chars (no issues here)
+  - go to: localhost:3000/out.html
+- Two chars (see logs)
+  - go to: localhost:3000/out1-0.html
+  - go to: localhost:3000/out1-1.html
+
+
 ## Offending files
 
 - public/moment.js (Whole moment.js with locales)

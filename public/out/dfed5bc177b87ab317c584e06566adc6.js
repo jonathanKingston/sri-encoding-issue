@@ -1,0 +1,1 @@
+var me = "py"; me = {py: "py"};

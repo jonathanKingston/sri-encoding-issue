@@ -1,0 +1,1 @@
+var me = "rc"; me = {rc: "rc"};

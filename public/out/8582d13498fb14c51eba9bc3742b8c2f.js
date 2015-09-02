@@ -1,0 +1,1 @@
+var me = "Ng"; me = {Ng: "Ng"};

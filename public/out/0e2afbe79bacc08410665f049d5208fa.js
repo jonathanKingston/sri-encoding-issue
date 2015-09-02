@@ -1,0 +1,1 @@
+var me = "qu"; me = {qu: "qu"};

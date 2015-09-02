@@ -1,0 +1,1 @@
+var me = "ni"; me = {ni: "ni"};

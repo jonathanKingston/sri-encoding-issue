@@ -1,0 +1,1 @@
+var me = "OK"; me = {OK: "OK"};

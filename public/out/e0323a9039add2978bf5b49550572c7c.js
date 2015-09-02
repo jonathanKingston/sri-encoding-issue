@@ -1,0 +1,1 @@
+var me = "cc"; me = {cc: "cc"};

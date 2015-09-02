@@ -1,0 +1,1 @@
+var me = "ko"; me = {ko: "ko"};

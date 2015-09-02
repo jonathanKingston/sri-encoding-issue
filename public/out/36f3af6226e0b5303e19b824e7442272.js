@@ -1,0 +1,1 @@
+var me = "ty"; me = {ty: "ty"};

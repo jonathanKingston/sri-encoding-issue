@@ -1,0 +1,1 @@
+var me = "aN"; me = {aN: "aN"};

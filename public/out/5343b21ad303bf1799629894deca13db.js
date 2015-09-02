@@ -1,0 +1,1 @@
+var me = "gp"; me = {gp: "gp"};

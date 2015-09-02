@@ -1,0 +1,1 @@
+var me = "up"; me = {up: "up"};

@@ -1,0 +1,1 @@
+var me = "hd"; me = {hd: "hd"};

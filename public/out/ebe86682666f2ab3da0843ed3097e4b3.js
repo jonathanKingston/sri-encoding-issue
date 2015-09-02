@@ -1,0 +1,1 @@
+var me = "kg"; me = {kg: "kg"};

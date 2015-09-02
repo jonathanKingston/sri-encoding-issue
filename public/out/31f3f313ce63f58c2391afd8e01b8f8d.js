@@ -1,0 +1,1 @@
+var me = "kP"; me = {kP: "kP"};

@@ -1,0 +1,1 @@
+var me = "so"; me = {so: "so"};

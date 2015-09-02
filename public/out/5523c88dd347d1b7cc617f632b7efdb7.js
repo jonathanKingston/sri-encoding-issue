@@ -1,0 +1,1 @@
+var me = "bg"; me = {bg: "bg"};
